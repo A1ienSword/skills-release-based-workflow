@@ -9,7 +9,7 @@
 
 _Create a release based workflow that is built on the foundations of the GitHub flow._
 
-<details id=0 open>
+<details id=0>
 <summary><h2>Welcome</h2></summary>
 
 Create a release based workflow that is built on the foundations of the [GitHub flow](https://guides.github.com/introduction/flow/). When your team uses a release-based workflow, GitHub makes it easy to collaborate with deployable iterations of your project that you can package and make available for a wider audience to download and use.
@@ -152,7 +152,7 @@ Merge this feature pull request so that you can open the release pull request as
 </details>
 
 <!--Step 3-->
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Open a release pull request</h2></summary>
 
 _Nice work adding a new feature :smile:_
